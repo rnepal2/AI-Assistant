@@ -5,4 +5,4 @@ OpenAI GPT-3 & Stable Diffusion (Huggingface)
 - Text2Image generation with Stable Diffusion model
 
 
-![Screenshot](./dashboard/Stable Diffusion Image Generation.PNG)
+![plot](./dashboard/Stable Diffusion Image Generation.PNG)

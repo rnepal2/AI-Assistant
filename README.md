@@ -4,6 +4,8 @@ OpenAI GPT-3 & Stable Diffusion (Huggingface)
 - Textual task completion: ask anything to the GPT-3
 - Text2Image generation with Stable Diffusion model
 
+[My simple dashboard implementation before ChatGPT & DALL-E became available on a tab.]
+
 ### Stable Diffusion: Generate images with prompts
 
 <p align="center">
